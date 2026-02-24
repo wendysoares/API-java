@@ -1,0 +1,33 @@
+img{
+    width: 40px;
+    height: 40px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(85, 85, 235);
+    
+}
+ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+.pai{
+    display: flex;
+    justify-content: space-evenly;
+     background-color: rgb(85, 85, 235);
+}
+.foto{
+    width: 400px;
+    height: 400px;
+    
+}
+
+.pai2{
+    display: flex;
+    justify-content: space-around;
+}
+.pequena{
+    background-color: aliceblue;
+}
